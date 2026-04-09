@@ -2,7 +2,7 @@
 
 ### Qué es en una línea
 
-Es el conjunto de reglas que usan todas las computadoras del mundo para comunicarse entre sí.
+Es el conjunto de reglas que usan todas las computadoras del mundo para comunicarse entre sí. 
 
 ---
 

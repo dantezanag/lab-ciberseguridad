@@ -2,7 +2,7 @@
 
 ### Qué es en una línea
 
-Es el proceso de dividir una red grande en redes más pequeñas llamadas subredes.
+Es el proceso de dividir una red grande en redes más pequeñas llamadas subredes. 
 
 ---
 

@@ -2,7 +2,7 @@
 
 ### Qué es en una línea
 
-Es un modelo de 7 capas que explica cómo viajan los datos desde una computadora hasta otra a través de una red.
+Es un modelo de 7 capas que explica cómo viajan los datos desde una computadora hasta otra a través de una red. 
 
 ### La analogía perfecta — enviar una carta internacional
 
