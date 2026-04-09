@@ -61,21 +61,21 @@ Objetivo: trabajar en ciberseguridad para el XXXXXXXXXXX
 
 ## 📁 Estructura del repositorio
 
-lab-ciberseguridad/
-├── fase-00-fundamentos/
-├── fase-01-base/
-├── fase-02-identidades/
-├── fase-03-nube/
-├── fase-04-huella/
-├── fase-05-comunicaciones/
-├── fase-06-monitoreo/
-├── fase-07-ofensiva/
-├── fase-08-osint/
-├── fase-09-anonimato/
-├── fase-10-ia/
-├── fase-11-enterprise/
-├── fase-12-hardening/
-└── fase-13-certificaciones/
+    lab-ciberseguridad/
+    ├── fase-00-fundamentos/
+    ├── fase-01-base/
+    ├── fase-02-identidades/
+    ├── fase-03-nube/
+    ├── fase-04-huella/
+    ├── fase-05-comunicaciones/
+    ├── fase-06-monitoreo/
+    ├── fase-07-ofensiva/
+    ├── fase-08-osint/
+    ├── fase-09-anonimato/
+    ├── fase-10-ia/
+    ├── fase-11-enterprise/
+    ├── fase-12-hardening/
+    └── fase-13-certificaciones/
 
 ---
 
