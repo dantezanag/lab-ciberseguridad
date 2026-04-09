@@ -9,7 +9,7 @@
 
 Soy estudiante de ciberseguridad construyendo una infraestructura
 enterprise completa desde casa como portafolio profesional.
-Objetivo: trabajar en ciberseguridad para el U.S. Army.
+Objetivo: trabajar en ciberseguridad para el XXXXXXXXXXX
 
 **Hardware:**
 - HP OmniBook 5 — Core Ultra 7, 32GB RAM, 1TB SSD — Servidor principal
